@@ -1,2 +1,2 @@
 # ComputerGraphics
-Code for computer graphics class in 2019
+Code for computer graphics course in 2019
