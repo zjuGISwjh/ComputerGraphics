@@ -1,0 +1,22 @@
+﻿  main.cpp
+c:\users\13924\desktop\cg\实验1\实验1\实验一\ex1_vs2012\ex1\main.cpp(4): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\users\13924\desktop\cg\实验1\实验1\实验一\ex1_vs2012\ex1\main.cpp(21): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\13924\desktop\cg\实验1\实验1\实验一\ex1_vs2012\ex1\main.cpp(22): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\13924\desktop\cg\实验1\实验1\实验一\ex1_vs2012\ex1\main.cpp(35): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\13924\desktop\cg\实验1\实验1\实验一\ex1_vs2012\ex1\main.cpp(36): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\13924\desktop\cg\实验1\实验1\实验一\ex1_vs2012\ex1\main.cpp(39): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\13924\desktop\cg\实验1\实验1\实验一\ex1_vs2012\ex1\main.cpp(40): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\13924\desktop\cg\实验1\实验1\实验一\ex1_vs2012\ex1\main.cpp(64): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\13924\desktop\cg\实验1\实验1\实验一\ex1_vs2012\ex1\main.cpp(65): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\13924\desktop\cg\实验1\实验1\实验一\ex1_vs2012\ex1\main.cpp(66): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\13924\desktop\cg\实验1\实验1\实验一\ex1_vs2012\ex1\main.cpp(67): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\13924\desktop\cg\实验1\实验1\实验一\ex1_vs2012\ex1\main.cpp(68): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\13924\desktop\cg\实验1\实验1\实验一\ex1_vs2012\ex1\main.cpp(69): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\13924\desktop\cg\实验1\实验1\实验一\ex1_vs2012\ex1\main.cpp(70): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\13924\desktop\cg\实验1\实验1\实验一\ex1_vs2012\ex1\main.cpp(71): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\13924\desktop\cg\实验1\实验1\实验一\ex1_vs2012\ex1\main.cpp(73): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\13924\desktop\cg\实验1\实验1\实验一\ex1_vs2012\ex1\main.cpp(74): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\13924\desktop\cg\实验1\实验1\实验一\ex1_vs2012\ex1\main.cpp(75): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\13924\desktop\cg\实验1\实验1\实验一\ex1_vs2012\ex1\main.cpp(76): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\13924\desktop\cg\实验1\实验1\实验一\ex1_vs2012\ex1\main.cpp(77): warning C4305: “参数”: 从“double”到“GLfloat”截断
+  Ex1.vcxproj -> C:\Users\13924\Desktop\CG\实验1\实验1\实验一\Ex1_VS2012\Debug\Ex1.exe
