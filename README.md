@@ -1,2 +1,2 @@
 # ComputerGraphics
-Code for computer graphics course in 2019
+Code for ZJU computer graphics course in 2019
