@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\13924\desktop\cg\实验6\实验6\实验六\ex6\ex6\main.cpp(112): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\13924\desktop\cg\实验6\实验6\实验六\ex6\ex6\main.cpp(80): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+c:\users\13924\desktop\cg\实验6\实验6\实验六\ex6\ex6\main.cpp(201): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\13924\desktop\cg\实验6\实验6\实验六\ex6\ex6\main.cpp(187): warning C4101: “tempRGB”: 未引用的局部变量
+c:\users\13924\desktop\cg\实验6\实验6\实验六\ex6\ex6\main.cpp(183): warning C4101: “bitmapInfoHeader2”: 未引用的局部变量
+  Ex6.vcxproj -> C:\Users\13924\Desktop\CG\实验6\实验6\实验六\Ex6\Debug\Ex6.exe
